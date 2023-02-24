@@ -18,4 +18,4 @@ Everything still runs entirely from the terminal.
 
 The more dices, the better!
 
-Todos: create a GUI, make the final image be really made by actual dices (and not a 9x9 matrix); implement video converting.
+Todos: create a GUI, make the final image be made by actual dices (and not a 9x9 matrix), implement video converting, remember user dim-color-process preferences for quick conversion, make .exe.
